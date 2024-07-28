@@ -12,7 +12,7 @@
 - ## ✨ Highlights
 
 - 📚 Published research on network analysis.
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<br>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 <!--
 **HibbaArshad/HibbaArshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
