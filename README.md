@@ -8,7 +8,7 @@
 ## 📫 How to Reach Me
 
 - **Email:** [hibbaarshad87@gmail.com](mailto:yourname@example.com)
-- **LinkedIn:** [www.linkedin.com/in/hibba-Arshad2727](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/hibba-Arshad2727](https://linkedin.com/in/yourprofile)
 - ## ✨ Highlights
 
 - 📚 Published research on network analysis.
